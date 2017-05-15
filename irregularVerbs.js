@@ -1,7 +1,3 @@
-// Offrir
-// Ouvrir
-// apprendre
-// admettre
 const IRREGULAR_VERBS = [
   {
     fr: 'aller', 
